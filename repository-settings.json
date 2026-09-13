@@ -1,0 +1,16 @@
+{
+  "description": "Support and documentation for DRH - Clock Studio, a Blender clock-generation toolkit currently in development.",
+  "homepage": "https://github.com/pacosalasv/DRH_Clock_Studio-Support",
+  "visibility": "public",
+  "has_issues": true,
+  "has_discussions": true,
+  "topics": [
+    "blender",
+    "blender-addon",
+    "procedural-modeling",
+    "clock",
+    "3d-modeling",
+    "technical-support",
+    "drh"
+  ]
+}

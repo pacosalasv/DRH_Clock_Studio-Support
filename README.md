@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img width="680" alt="DRH - Clock Studio banner" src="docs/media/Logo.png" />
 </div>
 
@@ -31,7 +31,7 @@
 
 **DRH - Clock Studio** helps Blender users create customizable clock assets for interiors, product visualization, game props, animation, tabletop scenes, architectural renders, and stylized environments.
 
-This repository is the central public hub for support, documentation, issue tracking, compatibility feedback, and compatibility feedback and future development updates while active development is on hold.
+This repository is the central public hub for support, documentation, issue tracking, compatibility feedback and future development updates while active development is on hold.
 
 </div>
 
@@ -91,35 +91,6 @@ Instead of modeling every clock manually from scratch, DRH - Clock Studio helps 
 
 ## Media preview
 
-<!--
-
----
-
-### Demo video
-
-Replace `YOUTUBE_VIDEO_ID` with your real YouTube video ID.
-
-Example:
-https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID" target="_blank">
-    <img width="720" alt="DRH - Clock Studio demo video" src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg" />
-  </a>
-  <br>
-  <sub>Click the image to watch the demo on YouTube.</sub>
-</div>
--->
-
-<!--
-### Quick demo GIF
-
-Recommended size: 1280x720 or 960x540.
-
-<div align="center">
-  <img width="720" alt="DRH - Clock Studio quick demo" src="docs/media/clock-studio-demo.gif" />
-</div>
--->
 
 ### Screenshots
 
@@ -131,42 +102,7 @@ Recommended size: 1280x720 or 960x540.
 
 </div>
 
-<!--
 
-<details>
-
-  <summary><strong>More Screenshots...</strong></summary>
-
-<div align="center">
-
-| Clock Body Controls | Dial & Hand Controls |
-|---|---|
-| <img height="420" alt="DRH - Clock Studio body controls" src="docs/media/ScreenShot_01.png" /> | <img height="420" alt="DRH - Clock Studio dial and hand controls" src="docs/media/ScreenShot_02.png" /> |
-
-</div>
-
-</details>
--->
-
-<!--
-### Visual preview
-
-Use this section if you want one large image instead of a gallery.
-
-<div align="center">
-  <img width="760" alt="DRH - Clock Studio preview" src="docs/media/clock-studio-preview.png" />
-</div>
--->
-
-<!--
-Temporary placeholder while media is not available.
-
-<div align="center">
-
-Media preview coming soon.
-
-</div>
--->
 
 ---
 
@@ -373,7 +309,7 @@ DRH - Clock Studio is designed for:
 | **Minimum Blender version** | 4.2.0 |
 | **Platforms** | Windows, macOS, Linux |
 | **Release type** | In development before public marketplace release |
-| **Support repository** | [DRH Clock Studio Support](https://github.com/pacosalasv/DRH_clock_studio-Support) |
+| **Support repository** | [DRH Clock Studio Support](https://github.com/pacosalasv/DRH_Clock_Studio-Support) |
 
 This add-on is currently in development. Compatibility feedback, usability comments, feature expectations, and workflow suggestions are welcome before public release.
 
@@ -420,12 +356,12 @@ Useful feedback examples:
 
 ## Quick links
 
-- [Support repository](https://github.com/pacosalasv/DRH_clock_studio-Support)
-- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_clock_studio-Support/discussions)
-- [Open a new issue](https://github.com/pacosalasv/DRH_clock_studio-Support/issues/new/choose)
-- [Report a bug](https://github.com/pacosalasv/DRH_clock_studio-Support/issues/new?template=bug_report.yml)
-- [Request a feature](https://github.com/pacosalasv/DRH_clock_studio-Support/issues/new?template=feature_request.yml)
-- [Report a compatibility issue](https://github.com/pacosalasv/DRH_clock_studio-Support/issues/new?template=compatibility_issue.yml)
+- [Support repository](https://github.com/pacosalasv/DRH_Clock_Studio-Support)
+- [Ask a question in Discussions](https://github.com/pacosalasv/DRH_Clock_Studio-Support/discussions)
+- [Open a new issue](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new/choose)
+- [Report a bug](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new?template=bug_report.yml)
+- [Request a feature](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new?template=feature_request.yml)
+- [Report a compatibility issue](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new?template=compatibility_issue.yml)
 
 ---
 
