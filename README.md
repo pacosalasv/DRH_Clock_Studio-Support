@@ -1,37 +1,16 @@
 <div align="center">
-  <img width="680" alt="DRH - Clock Studio banner" src="docs/media/Logo.png" />
-</div>
 
-<br>
-
-<div align="center">
+<img width="860" alt="DRH - Clock Studio featured image" src="docs/media/Featured_Image.png" />
 
 # DRH - Clock Studio
 
-### Support · Documentation · Feedback · Development On-Hold
+**Create customizable clock assets for visualization, props, animation, and scene-building workflows**
 
-Create customizable clock assets for visualization, props, animation, and scene-building workflows.
+![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
 
-![Status](https://img.shields.io/badge/status-In%20Development%20%5BOn-Hold%5D-7C3AED?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-4.2%2B-0B1F4D?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-EAF2FF?style=for-the-badge&labelColor=0B1F4D&color=EAF2FF)
-
-<br>
-
-DRH Blender Tools: support, documentation, and release information.
-
-[![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit%20Hub-1E5BFF?style=for-the-badge&labelColor=0B1F4D)](https://github.com/pacosalasv/DRH_Addons_Hub)
-
-</div>
-
----
-
-<div align="center">
-
-DRH - Clock Studio helps Blender users create customizable clock assets for interiors, product visualization, game props, animation, tabletop scenes, architectural renders, and stylized environments.
-
-This repository tracks documentation, support, compatibility reports, and development notes while active development is on hold.
+[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -43,63 +22,36 @@ DRH - Clock Studio is a Blender workflow utility designed to help users generate
 
 It is intended for environment artists, product visualization artists, interior designers, prop artists, game artists, animation creators, architectural visualization users, asset pack creators, and Blender users who need clock models for renders, scenes, prototypes, or stylized collections.
 
-Instead of modeling every clock manually from scratch, DRH - Clock Studio helps turn clock creation into a faster, more adjustable, and repeatable workflow.
+## Product status
 
-## Media preview
+| Item | Details |
+|---|---|
+| Status | **Development On Hold** |
+| Version | 1.0.0 |
+| Blender | 4.2+ |
+| Platforms | Windows, macOS, Linux |
+| Availability | Development is currently on hold; no public download is promoted from this repository. |
+| Distribution | Support, documentation, and development history. |
+| Repository role | Documentation, support, issue tracking, compatibility feedback, and product feedback |
 
-### Screenshots
+The repository remains available for documentation and feedback while active development is paused.
 
-<div align="center">
+## Capabilities
 
-| Clock Generator Controls |
+| Capability |
 |---|
-| <img height="420" alt="DRH - Clock Generator Controls" src="docs/media/ScreenShot_01.png" /> |
+| Create customizable clock assets for visualization, props, animation, and scene-building workflows |
 
-</div>
+## Media
 
+| Preview | Preview |
+|---|---|
+| <img width="420" alt="DRH - Clock Studio Screenshot 1" src="docs/media/ScreenShot_01.png" /> |  |
 
----
-
-## What DRH - Clock Studio does
-
-DRH - Clock Studio helps you create, customize, and refine clock assets directly inside Blender.
-
-It is not only a simple clock preset tool. It is designed as a workflow helper for generating clock meshes, selecting clock styles, configuring the body and dial, adjusting hands and markers, applying color presets, and preparing clock variations for creative or production use.
-
-Use it to:
-
-| Details |
-|---|
-| Generate clock assets faster |
-| Create wall clocks, tabletop clocks, decorative clocks, and stylized clock props |
-| Configure clock body shape, depth, bevels, and proportions |
-| Build clock faces with markers, numbers, labels, or clean minimal layouts |
-| Adjust hour, minute, and second hands |
-| Create static display times for renders and product shots |
-| Apply predefined or custom color presets |
-| Control materials for body, dial, hands, markers, and details |
-| Build clock variations for interiors, game scenes, renders, prototypes, or asset packs |
-
----
-
-### Capabilities
-
-| Details |
-|---|
-| One-click generation of customizable clock meshes directly in Blender |
-| Clock asset workflow for wall, desk, decorative, and stylized clock use cases |
-| Body-shaping controls for clean, polished clock forms |
-| Flexible dial system for numbers, markers, labels, and minimal faces |
-| Adjustable hour, minute, and second hands |
-| Static time controls for render-ready clock displays |
-| Built-in color presets plus custom color control |
-| Material controls for body, dial, hands, markers, and accents |
-| Useful for interior scenes, architectural visualization, game props, animation, and product renders |
-
----
+## Product reference
 
 <details>
-  <summary>Feature reference</summary>
+<summary>Open detailed feature reference</summary>
 
 ## Feature reference
 
@@ -249,110 +201,39 @@ Use it to:
 
 </details>
 
----
+## Documentation and support
 
-## Intended users
-
-DRH - Clock Studio is designed for:
-
-| Details |
-|---|
-| Blender users |
-| Environment artists |
-| Interior visualization artists |
-| Architectural visualization users |
-| Product visualization artists |
-| Game artists |
-| Prop designers |
-| Animation creators |
-| Motion graphics artists |
-| Stylized scene artists |
-| Marketplace asset creators |
-| Users who need reusable clock assets, clock variations, prototypes, or decorative props |
-
----
-
-## Status
-
-| Item | Details |
+| Resource | Link |
 |---|---|
-| Status | 🟣 In Development [On-Hold] |
-| Current version | 1.0.0 |
-| Minimum Blender version | 4.2.0 |
-| Platforms | Windows, macOS, Linux |
-| Release type | In development before public marketplace release |
-| Support repository | [DRH Clock Studio Support](https://github.com/pacosalasv/DRH_Clock_Studio-Support) |
+| User manual | [User manual](docs/manual/user-manual.pdf) |
+| Support guide | [Support guide](SUPPORT.md) |
+| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
+| Product changelog | [Product changelog](CHANGELOG.md) |
+| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Clock_Studio-Support/discussions) |
+| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new/choose) |
 
-This add-on is currently in development. Compatibility feedback, usability comments, feature expectations, and workflow suggestions are welcome before public release.
+Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
 
----
-
-## Technical notes
-
-This add-on is source based, with:
-
-- No obfuscation
-- No binary-only content
-- No external services
-- No account requirements
-
-Local system access may be used only for normal Blender workflows such as saving files, loading assets, exporting data, or using project resources when applicable.
-
-The add-on is intended to work locally inside Blender.
-
----
-
-## Availability
-
-This add-on may be available through multiple marketplaces and storefronts after release.
-
-This GitHub repository remains the central public location for:
-
-| Details |
-|---|
-| Support |
-| Documentation |
-| Issue tracking |
-| Compatibility reports |
-| Public feedback |
-| Release notes |
-
----
-
-## Documentation
-
-- [User manual](docs/manual/user-manual.pdf)
-- [Manual changelog](docs/manual/manual-changelog.md)
-- [Product changelog](CHANGELOG.md)
-- [Support guide](SUPPORT.md)
-
-## Support
-
-Use [GitHub Discussions](https://github.com/pacosalasv/DRH_Clock_Studio-Support/discussions) for setup questions, workflow guidance, usage help, and general feedback. Use [GitHub Issues](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new/choose) for reproducible bugs, regressions, compatibility problems, and focused feature requests.
-
-See [SUPPORT.md](SUPPORT.md) for the shared DRH support format, the information to include in a report, and public-information guidance.
+Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
 
 ## Support DRH development
 
-DRH development support is optional. Ko-fi contributions help cover maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
-## Ecosystem links
+## DRH ecosystem
 
-- [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub)
-- [DRH catalog on BlendKit](https://www.blendkit.com/?query=author_id:205846)
-- [Paco Salas | DRH on GitHub](https://github.com/pacosalasv)
-- [Ko-fi](https://ko-fi.com/pacosalasv)
+| Destination | Link |
+|---|---|
+| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
 
 ## License
 
-This repository is distributed under GPL-3.0-or-later. See [LICENSE](LICENSE).
-
----
-
-Authored by Paco Salas | DRH.
+See [LICENSE](LICENSE) for repository licensing terms.
