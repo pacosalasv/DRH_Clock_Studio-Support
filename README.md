@@ -6,11 +6,9 @@
 
 **Create customizable clock assets for visualization, props, animation, and scene-building workflows**
 
-![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Development%20On%20Hold-7C3AED?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0.0-00B7FF?style=for-the-badge) ![Blender](https://img.shields.io/badge/Blender-4.2%2B-0B1F4D?style=for-the-badge) ![Platforms](https://img.shields.io/badge/Platforms-Windows%2C%20macOS%2C%20Linux-334155?style=for-the-badge)
 
-[![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add--ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Development status](https://img.shields.io/badge/Development%20status-View-64748B?style=for-the-badge)](#product-status) [![Support](https://img.shields.io/badge/Support-Issues%20%26%20Discussions-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues) [![DRH Add-ons Hub](https://img.shields.io/badge/DRH%20Add-ons%20Hub-Visit-334155?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
 
 </div>
 
@@ -44,18 +42,20 @@ The repository remains available for documentation and feedback while active dev
 
 ## Media
 
-| Preview | Preview |
-|---|---|
-| <img width="420" alt="DRH - Clock Studio Screenshot 1" src="docs/media/ScreenShot_01.png" /> |  |
+Primary product screenshots are shown below. Additional screenshots, when present, remain in `docs/media/`.
+
+<div align="center">
+  <img width="420" alt="DRH - Clock Studio ScreenShot 01" src="docs/media/ScreenShot_01.png" />
+</div>
 
 ## Product reference
 
 <details>
 <summary>Open detailed feature reference</summary>
 
-## Feature reference
+### Feature reference
 
-### Clock generation
+#### Clock generation
 | Details |
 |---|
 | Mesh-based clock generation |
@@ -64,7 +64,7 @@ The repository remains available for documentation and feedback while active dev
 | Fast clock variation workflow |
 | Scene-ready prop generation |
 
-### Clock types
+#### Clock types
 | Details |
 |---|
 | Wall clock style |
@@ -77,7 +77,7 @@ The repository remains available for documentation and feedback while active dev
 | Stylized prop clock style |
 | Custom clock generator workflow |
 
-### Body and geometry
+#### Body and geometry
 | Details |
 |---|
 | Size controls |
@@ -94,7 +94,7 @@ The repository remains available for documentation and feedback while active dev
 | Proportion controls |
 | Clean mesh generation for render-ready use |
 
-### Dial and face
+#### Dial and face
 | Details |
 |---|
 | Clock face generation |
@@ -111,7 +111,7 @@ The repository remains available for documentation and feedback while active dev
 | Blank dial support |
 | Decorative face support |
 
-### Markers and numbers
+#### Markers and numbers
 | Details |
 |---|
 | Hour marker controls |
@@ -129,7 +129,7 @@ The repository remains available for documentation and feedback while active dev
 | Optional marker-only layout |
 | Optional number-only layout |
 
-### Hands
+#### Hands
 
 | Details |
 |---|
@@ -148,7 +148,7 @@ The repository remains available for documentation and feedback while active dev
 | Adjustable second value |
 | Render-ready hand placement |
 
-### Styles and variations
+#### Styles and variations
 | Details |
 |---|
 | Modern clock variations |
@@ -160,7 +160,7 @@ The repository remains available for documentation and feedback while active dev
 | Game prop variations |
 | Asset pack variation workflow |
 
-### Color workflow
+#### Color workflow
 | Details |
 |---|
 | Built-in color presets |
@@ -174,7 +174,7 @@ The repository remains available for documentation and feedback while active dev
 | Swap color workflow |
 | Apply colors to selected clocks |
 
-### Materials
+#### Materials
 
 | Details |
 |---|
@@ -188,7 +188,7 @@ The repository remains available for documentation and feedback while active dev
 | Matte-style material support |
 | High-contrast face setup for readable renders |
 
-### Workflow and UI
+#### Workflow and UI
 | Details |
 |---|
 | Reset defaults |
@@ -205,20 +205,15 @@ The repository remains available for documentation and feedback while active dev
 
 | Resource | Link |
 |---|---|
-| User manual | [User manual](docs/manual/user-manual.pdf) |
-| Support guide | [Support guide](SUPPORT.md) |
-| Manual changelog | [Manual changelog](docs/manual/manual-changelog.md) |
-| Product changelog | [Product changelog](CHANGELOG.md) |
-| GitHub Discussions | [GitHub Discussions](https://github.com/pacosalasv/DRH_Clock_Studio-Support/discussions) |
-| GitHub Issues | [GitHub Issues](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues/new/choose) |
+| Support guide | [SUPPORT.md](SUPPORT.md) |
+| User manual | [PDF manual](docs/manual/user-manual.pdf) |
+| Repository changelog | [CHANGELOG.md](CHANGELOG.md) |
+| Issues | [Open or review issues](https://github.com/pacosalasv/DRH_Clock_Studio-Support/issues) |
+| Discussions | [Ask questions and share feedback](https://github.com/pacosalasv/DRH_Clock_Studio-Support/discussions) |
 
-Use **Discussions** for questions, setup help, workflow guidance, and general feedback. Use **Issues** for reproducible bugs, regressions, compatibility problems, documentation errors, and focused feature requests.
+## Support development
 
-Before posting, review [SUPPORT.md](SUPPORT.md) for the shared DRH support format and public-information guidance.
-
-## Support DRH development
-
-If this project or another free DRH tool saves you time, optional Ko-fi support helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
+Ko-fi support is optional. Contributions help fund maintenance, Blender compatibility work, documentation, testing, and continued development of free DRH tools.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -226,13 +221,13 @@ If this project or another free DRH tool saves you time, optional Ko-fi support 
   </a>
 </div>
 
-## DRH ecosystem
+## Ecosystem
 
 | Destination | Link |
 |---|---|
-| DRH Add-ons Hub | [Catalog, roadmap, and product status](https://github.com/pacosalasv/DRH_Addons_Hub) |
-| Paco Salas \| DRH | [GitHub profile](https://github.com/pacosalasv) |
-| Support development | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| DRH Add-ons Hub | [Catalog and roadmap](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| Paco Salas | DRH | [GitHub profile](https://github.com/pacosalasv) |
+| Ko-fi | [Support development](https://ko-fi.com/pacosalasv) |
 
 ## License
 
