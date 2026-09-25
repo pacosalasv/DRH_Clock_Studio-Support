@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="860" alt="DRH - Clock Studio featured image" src="docs/media/Featured_Image.png" />
+<img width="860" alt="DRH - Clock Studio logo" src="docs/media/Logo.png" />
 
 # DRH - Clock Studio
 
